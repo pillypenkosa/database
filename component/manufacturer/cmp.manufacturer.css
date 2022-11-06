@@ -1,0 +1,30 @@
+.cmpManufacturer {
+
+}
+
+
+.cmpManufacturer a {
+	text-decoration: none;
+	color: yellow;
+}
+
+	.cmpManufacturer-table thead td {
+		padding: 5px 20px;
+		font-weight: bold;
+		color: #fff;
+	}
+
+	.cmpManufacturer table td {
+		padding: 1px 20px;
+	}
+
+.cmpManufacturer-table-left{
+	text-align: left;
+}
+
+
+
+.cmpManufacturer-table-key {
+	color: #aaa;
+}
+
