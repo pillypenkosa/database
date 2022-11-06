@@ -5,10 +5,10 @@
 
 
 
-class ComponentManufacturer {
+class ComponentCarEngine {
 
 
-	static tag 	= 'manufacturer';
+	static tag 	= 'car-engine';
 
 
 
@@ -18,7 +18,7 @@ class ComponentManufacturer {
 
 
 
-		arrManufacturer.forEach( ( k , i ) => {
+		arrCarEngine.forEach( ( k , i ) => {
 			html += `<div>${ i + 1 }) <span class="key">id:</span>${ k.id } <span class="key">title:</span>${ k.title }</div>`;
 		});
 

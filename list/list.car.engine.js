@@ -50,6 +50,7 @@ const arrCarEngine = [
 
 
 	{ 
+		id 			: 'm2da',
 		title 		: 'M2DA',
 		fuel 		: 'benzine',
 		seria 		: '1.0 EcoBoost',
@@ -66,6 +67,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'm1da',
 		title 		: 'M1DA',
 		fuel 		: 'benzine',
 		seria 		: '1.0 EcoBoost',
@@ -82,6 +84,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'asda',
 		title 		: 'ASDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec',
@@ -97,6 +100,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4a91',
 		title 		: '4A91',
 		fuel 		: 'benzine',
 		value 		: { liter: '1.5', cm3: 1499, },
@@ -113,6 +117,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'm8da',
 		title 		: 'M8DA',
 		fuel 		: 'benzine',
 		seria 		: '1.5 EcoBoost',
@@ -129,6 +134,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'm9da',
 		title 		: 'M9DA',
 		fuel 		: 'benzine',
 		seria 		: '1.5 EcoBoost',
@@ -145,6 +151,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'xtda',
 		title 		: 'XTDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec Ti-VCT',
@@ -160,6 +167,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'hwda',
 		title 		: 'HWDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec',
@@ -175,6 +183,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'shda',
 		title 		: 'SHDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec',
@@ -191,6 +200,7 @@ const arrCarEngine = [
 	},
 
 	{ 
+		id 			: 'alz',
 		title 		: 'ALZ',
 		fuel 		: 'benzine',
 		seria 		: 'EA113-1.6',
@@ -216,6 +226,7 @@ const arrCarEngine = [
 
 
 	{ 
+		id 			: 'iqdb',
 		title 		: 'IQDB',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec Ti-VCT',
@@ -231,6 +242,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'hxda',
 		title 		: 'HXDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec Ti-VCT',
@@ -249,6 +261,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'sida',
 		title 		: 'SIDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec Ti-VCT',
@@ -264,6 +277,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4a92',
 		title 		: '4A92',
 		fuel 		: 'benzine',
 		value 		: { liter: '1.6', cm3: 1590, },
@@ -280,6 +294,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'pnda',
 		title 		: 'PNDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec Ti-VCT',
@@ -295,6 +310,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'jqda',
 		title 		: 'JQDA',
 		fuel 		: 'benzine',
 		seria 		: '1.6 EcoBoost',
@@ -311,6 +327,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4b10',
 		title 		: '4B10',
 		fuel 		: 'benzine',
 		value 		: { liter: '1.8', cm3: 1798, },
@@ -327,6 +344,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'rp',
 		title 		: 'RP',
 		fuel 		: 'benzine',
 		seria 		: 'EA827-1.8',
@@ -343,6 +361,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'qqdb',
 		title 		: 'QQDB',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec HE',
@@ -358,6 +377,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'kr',
 		title 		: 'KR',
 		fuel 		: 'benzine',
 		seria 		: '',
@@ -374,6 +394,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'awt',
 		title 		: 'AWT',
 		fuel 		: 'benzine',
 		seria 		: 'EA113-1.8T',
@@ -394,6 +415,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '2e',
 		title 		: '2E',
 		fuel 		: 'benzine',
 		seria 		: 'EA827-2.0',
@@ -412,6 +434,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4b11',
 		title 		: '4B11',
 		fuel 		: 'benzine',
 		//seria 		: '',
@@ -430,6 +453,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'aoda',
 		title 		: 'AODA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec HE',
@@ -445,6 +469,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'xqda',
 		title 		: 'XQDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec HE',
@@ -460,6 +485,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4b11t',
 		title 		: '4B11T',
 		fuel 		: 'benzine',
 		//seria 		: '',
@@ -478,6 +504,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'agg',
 		title 		: 'AGG',
 		fuel 		: 'benzine',
 		seria 		: 'EA827-2.0',
@@ -496,6 +523,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'abf',
 		title 		: 'ABF',
 		fuel 		: 'benzine',
 		seria 		: 'EA827-2.0',
@@ -514,6 +542,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'alt',
 		title 		: 'ALT',
 		fuel 		: 'benzine',
 		seria 		: 'EA113-2.0',
@@ -530,6 +559,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'r9da',
 		title 		: 'R9DA',
 		fuel 		: 'benzine',
 		seria 		: '2.0 EcoBoost',
@@ -546,6 +576,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: '4b12',
 		title 		: '4B12',
 		fuel 		: 'benzine',
 		value 		: { liter: '2.4', cm3: 1998, },
@@ -562,6 +593,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'yvda',
 		title 		: 'YVDA',
 		fuel 		: 'benzine',
 		seria 		: '2.3 EcoBoost',
@@ -578,6 +610,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'hyda',
 		title 		: 'HYDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec ST/RS',
@@ -594,6 +627,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'jzda',
 		title 		: 'JZDA',
 		fuel 		: 'benzine',
 		seria 		: 'Duratec ST/RS',
@@ -624,6 +658,7 @@ const arrCarEngine = [
 // Дизеля ---
 
 	{ 
+		id 			: 'avb',
 		title 		: 'AVB',
 		fuel 		: 'diesel',
 		seria 		: 'EA188-1.9',
@@ -641,6 +676,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'awx',
 		title 		: 'AWX',
 		fuel 		: 'diesel',
 		seria 		: 'EA188-1.9',
@@ -658,6 +694,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'avf',
 		title 		: 'AVF',
 		fuel 		: 'diesel',
 		seria 		: 'EA188-1.9',
@@ -675,6 +712,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'bgw',
 		title 		: 'BGW',
 		fuel 		: 'diesel',
 		seria 		: '',
@@ -691,6 +729,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'bhw',
 		title 		: 'BHW',
 		fuel 		: 'diesel',
 		seria 		: '',
@@ -707,6 +746,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'akn',
 		title 		: 'AKN',
 		fuel 		: 'diesel',
 		seria 		: 'EA330',
@@ -724,6 +764,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'bdg',
 		title 		: 'BDG',
 		fuel 		: 'diesel',
 		seria 		: 'EA330',
@@ -741,6 +782,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'bau',
 		title 		: 'BAU',
 		fuel 		: 'diesel',
 		seria 		: 'EA330',
@@ -758,6 +800,7 @@ const arrCarEngine = [
 		}
 	},
 	{ 
+		id 			: 'bdh',
 		title 		: 'BDH',
 		fuel 		: 'diesel',
 		seria 		: 'EA330',

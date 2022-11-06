@@ -7,9 +7,7 @@ class ComponentMiddle {
 
 
 
-	static cmpTitle = 'cmpMiddle';
-
-
+	static tag 	= 'middle';
 
 
 
@@ -17,17 +15,13 @@ class ComponentMiddle {
 
 	static index() {
 
-
-
-		return `
-		<div class="${ this.cmpTitle }">
-			<aside>
-				${ ComponentAside.html() }
-			</aside>
-
-			<div class="cmpContent"></div>
-		</div>
+		let html = `
+			${ ComponentAside.index() }
+			<div id="content"></div>
 		`;
+
+
+		return getComponentHtml( this.tag, html );
 	}
 
 

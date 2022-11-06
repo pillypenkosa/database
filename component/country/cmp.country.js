@@ -5,10 +5,13 @@
 
 
 
-class ComponentManufacturer {
 
 
-	static tag 	= 'manufacturer';
+class ComponentCountry {
+
+
+	static tag = 'country';
+
 
 
 
@@ -17,12 +20,12 @@ class ComponentManufacturer {
 		let html = '';
 
 
-
-		arrManufacturer.forEach( ( k , i ) => {
-			html += `<div>${ i + 1 }) <span class="key">id:</span>${ k.id } <span class="key">title:</span>${ k.title }</div>`;
+		arrCountry.forEach( ( k , i ) => {
+			html += `<div>${ i + 1 }) <span class="key">id:</span>${ k.id } <span class="key">title.ua:</span>${ k.title.ua }</div>`;
 		});
 
 		return getComponentHtml( this.tag, html );
+
 	}
 
 
@@ -33,6 +36,8 @@ class ComponentManufacturer {
 		//btnLight( `.${ this.tag }`, elem.dataset.id );
 
 	}
+
+
 
 
 

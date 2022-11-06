@@ -10,18 +10,22 @@
 
 class ComponentHeader {
 
-	static template = `<header>DataBase DJS</header>`;
-
-
-
+	static tag 	= 'header';
 
 
 
 
 	static index() {
 
-		return this.template;
+		let html = 'DataBase DJS';
+
+		return getComponentHtml( this.tag, html );
 	}
+
+
+
+
+
 
 
 

@@ -1,10 +1,10 @@
-aside {
+cmp-aside {
 	/*width: 200px;*/
 }
 
 
 
-	aside .btn {
+	cmp-aside .btn {
 		display: block;
 	}
 

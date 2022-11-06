@@ -35,6 +35,12 @@ function big1Letter( txt ) {
 
 
 
+function getComponentHtml( title, html ) {
+	return `<cmp-${ title }>${ html }</cmp-${ title }>`;
+}
+
+
+
 
 
 

@@ -10,10 +10,7 @@
 
 class ComponentAside {
 
-
-
-	//static cmpTitle = 'cmpAside';
-
+	static tag 	= 'aside';
 
 
 
@@ -21,10 +18,13 @@ class ComponentAside {
 
 		
 
-		//{ title: 'Календар' 				, id: 'calendar' 				, },
-		{ title: 'Виробники' 				, id: 'manufacturer' 			, },
+		//{ title: 'Календар' 		, id: 'calendar' 		, },
+		{ title: 'Виробники' 		, id: 'manufacturer' 	, },
 
-
+		{ title: 'Двигуни' 			, id: 'engine' 			, },
+		{ title: 'Країни' 			, id: 'country' 		, },
+		{ title: 'Міста' 			, id: 'city' 			, },
+		{ title: 'Календар' 		, id: 'calendar' 		, },
 
 
 
@@ -33,54 +33,64 @@ class ComponentAside {
 
 
 
+	static index() {
 
-	static html() {
 
-		let htmlBtns = '';
+		//let htmlBtns = '';
+
+		let html = '';
+
 
 		this.arrBtns.forEach( k => {
-			//htmlBtns += `<div class="btn" data-id="${ k.id }" onclick="AsideComponent.showWin( '${ k.id }' )">${ k.title }</div>`;
-			htmlBtns += `<div class="btn" data-id="${ k.id }" onclick="ComponentAside.showWin( '${ k.id }' )">${ k.title }</div>`;
+			html += `<div class="btn" data-id="${ k.id }" onclick="ComponentAside.clc( '${ k.id }' )">${ k.title }</div>`;
 		});
 
-		return `<aside>
-			${ htmlBtns }
-		</aside>`;
+		return getComponentHtml( this.tag, html );
 	}
 
 
 
 
-	static showWin( id ) {
+	static clc( id ) {
 
-		//console.log( txt );
+		//console.log( id );
 
 
 		// подсветка кнопок
-		btnLight( 'aside', id );
+		btnLight( 'cmp-aside', id );
 
 
 
 		// очистка контента
 
-
-
-		let content = document.querySelectorAll( '.cmpContent' )[ 0 ];
+		//let content = document.querySelectorAll( 'cmp-content' )[ 0 ];
+		let content = document.getElementById( 'content' );
 		content.innerHTML = '';
 
-		//console.log( content );
 
 
-/*
 
 		if ( id == 'calendar' ) 
-			content.innerHTML = ComponentArr2arr.html();
-		
-*/
+			content.innerHTML = ComponentCalendar.index();
 
+		if ( id == 'city' ) 
+			content.innerHTML = ComponentCity.index();
+
+		if ( id == 'country' ) 
+			content.innerHTML = ComponentCountry.index();
+
+		if ( id == 'engine' ) 
+			content.innerHTML = ComponentCarEngine.index();
 
 		if ( id == 'manufacturer' ) 
-			content.innerHTML = ComponentManufacturer.html();
+			content.innerHTML = ComponentManufacturer.index();
+
+
+
+
+
+
+
 
 
 

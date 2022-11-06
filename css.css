@@ -7,17 +7,21 @@ body {
 
 
 
-.cmp_middle {
+cmp-middle {
 	display: flex;
 }
 
 
 
-aside {
+cmp-aside {
 	width: 200px;
 	margin: 0 10px 0 0;
 }
 
+
+#content {
+	/*flex-grow: 1;*/
+}
 
 
 
