@@ -48,30 +48,4 @@ function getComponentHtml( title, html ) {
 
 
 
-/*
-
---- стиль кода ---
-
-
-// название компонента:
-
-	static cmpTitle = 'cmpAnyName';
-
-
-
-
-
-
-
-
-
-
-
-
-*/
-
-
-
-
-
 
