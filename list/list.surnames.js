@@ -1,22 +1,29 @@
 const arrSurnames = [
 
 
+{ id: 'abakumov' 		, title: 'Абакумов'	 	, }, { id: 'abakumova' 		, title: 'Абакумова' 		, },
+{ id: 'abduev' 			, title: 'Абдуєв'	 	, }, { id: 'abdueva' 		, title: 'Абдуєва' 			, },
+{ id: 'abelencev' 		, title: 'Абєлєнцев' 	, }, { id: 'abelenceva' 	, title: 'Абєлєнцева' 		, },
+{ id: 'agonin' 			, title: 'Агонін' 		, }, { id: 'agonina' 		, title: 'Агоніна' 			, },
+{ id: 'aksenov' 		, title: 'Аксьонов' 	, }, { id: 'aksenova' 		, title: 'Аксьонова' 		, },
+{ id: 'akulov' 			, title: 'Акулов' 		, }, { id: 'akulova' 		, title: 'Акулова' 			, },
+{ id: 'aleksandrov' 	, title: 'Александров' 	, }, { id: 'aleksandrova' 	, title: 'Александрова' 	, },
+{ id: 'aleksenko' 		, title: 'Алексенко' 	, }, 
+{ id: 'allahverdyan' 	, title: 'Аллахвердян' 	, }, 
+{ id: 'almakaeva' 		, title: 'Алмакаєв' 	, }, { id: 'almakaeva' 		, title: 'Алмакаєва' 		, },
+{ id: 'alizade' 		, title: 'Алізаде' 		, }, 
+{ id: 'alifirenko' 		, title: 'Аліфіренко' 	, }, 
 
 
 
-[ { ua: 'Абакумова' 	, en: 'Abakumova' 		, }, { ua: 'Абакумов' 		, en: 'Abakumov' 		, }, ],
-[ { ua: 'Абдуєва' 		, en: 'Abdueva' 		, }, { ua: 'Абдуєв' 		, en: 'Abduev' 			, }, ],
-[ { ua: 'Абєлєнцева' 	, en: 'Abelenceva' 		, }, { ua: 'Абєлєнцев' 		, en: 'Abelencev' 		, }, ],
-[ { ua: 'Агоніна' 		, en: 'Agonina' 		, }, { ua: 'Агонін' 		, en: 'Agonin' 			, }, ],
-[ { ua: 'Аксьонова' 	, en: 'Aksenova' 		, }, { ua: 'Аксьонов' 		, en: 'Aksenov' 		, }, ],
-[ { ua: 'Акулова' 		, en: 'Akulova' 		, }, { ua: 'Акулов' 		, en: 'Akulov' 			, }, ],
-[ { ua: 'Александрова' 	, en: 'Aleksandrova' 	, }, { ua: 'Александров' 	, en: 'Aleksandrov' 	, }, ],
-[ { ua: 'Олексієнко' 	, en: 'Alekseenko' 		, }, ],
-[ { ua: 'Алексенко' 	, en: 'Aleksenko' 		, }, ],
-[ { ua: 'Аллахвердян' 	, en: 'Allahverdyan' 	, }, ],
-[ { ua: 'Алмакаєва' 	, en: 'Almakaeva' 		, }, { ua: 'Алмакаєв' 		, en: 'Almakaev' 		, }, ],
-[ { ua: 'Алізаде' 		, en: 'Alizade' 		, }, ],
-[ { ua: 'Аліфіренко'	, en: 'Alifirenko' 		, }, ],
+/*
+
+
+{ id: '' 	, title: '' 	, }, { id: '' 	, title: '' 	, },
+
+
+
+
 [ { ua: 'Амельченко' 	, en: 'Amelchenko' 		, }, ],
 [ { ua: 'Анадрузська' 	, en: 'Anadruzskaya' 	, }, { ua: 'Анадрузський' 	, en: 'Anadruzsky' 		, }, ],
 [ { ua: 'Андрєєва' 		, en: 'Andreeva' 		, }, { ua: 'Андрєєв' 		, en: 'Andreev' 		, }, ],
@@ -423,6 +430,14 @@ const arrSurnames = [
 [ { ru: 'Овчаров', ua: '', en: 'Ovcharov', }, ],
 [ { ru: 'Озерной', ua: '', en: 'Ozernoy', }, ],
 [ { ru: 'Олейник', ua: '', en: 'Oleynik', }, ],
+
+
+[ { ua: 'Олексієнко' 	, en: 'Alekseenko' 		, }, ],
+
+
+
+
+
 [ { ru: 'Омельяненко', ua: '', en: 'Omelyanenko', }, ],
 [ { ru: 'Онищенко', ua: '', en: 'Onischenko', }, ],
 [ { ru: 'Онєгова', ua: '', en: 'Ongova', }, ],
@@ -721,10 +736,10 @@ const arrSurnames = [
 
 
 
+*/
 
 
 ];
-
 
 
 
