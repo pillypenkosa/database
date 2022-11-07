@@ -10,7 +10,7 @@ const arrSurnames = [
 { id: 'aleksandrov' 	, title: 'Александров' 	, }, { id: 'aleksandrova' 	, title: 'Александрова' 	, },
 { id: 'aleksenko' 		, title: 'Алексенко' 	, }, 
 { id: 'allahverdyan' 	, title: 'Аллахвердян' 	, }, 
-{ id: 'almakaeva' 		, title: 'Алмакаєв' 	, }, { id: 'almakaeva' 		, title: 'Алмакаєва' 		, },
+{ id: 'almakaev' 		, title: 'Алмакаєв' 	, }, { id: 'almakaeva' 		, title: 'Алмакаєва' 		, },
 { id: 'alizade' 		, title: 'Алізаде' 		, }, 
 { id: 'alifirenko' 		, title: 'Аліфіренко' 	, }, 
 
