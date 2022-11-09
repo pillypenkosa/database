@@ -14575,11 +14575,11 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'ada_rogovceva_16071937', 
 	name: { n: 'Ада', s: 'Роговцева', },
 	life: { bd: 16, bm: 7, by: 1937, },
-	country: { rus: 1, our: { sun: 1, }, },
+	country: { ukr: 1, our: { sun: 1, }, },
 	movie: { actor: {}, },
 	internet: {
 		imdb: '0737385', 
-		wiki_ru: '%D0%A0%D0%BE%D0%B3%D0%BE%D0%B2%D1%86%D0%B5%D0%B2%D0%B0,_%D0%90%D0%B4%D0%B0_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0', 
+		wiki_ua: '%D0%A0%D0%BE%D0%B3%D0%BE%D0%B2%D1%86%D0%B5%D0%B2%D0%B0_%D0%90%D0%B4%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D0%BD%D0%B0', 
 		kinoteatr: 'https://www.kino-teatr.ru/kino/acter/w/post/3602/works/', 
 	},
 },
