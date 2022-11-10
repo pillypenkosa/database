@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+
+	background: linear-gradient( to right, #111, #117 );
+	color: lime;
+	font-family: Courier;
+}
+
+cmp-app {
+	all: initial;
+}
+
+
+
+
+cmp-middle {
+	all: initial;
+	display: flex;
+}
+
+
+
+
+
+
+table {
+	border-collapse: collapse;	/* рамка одинарная общая на две ячейки */
+}
+	table td {
+		/*padding: 0 20px;*/
+		border: 1px solid #333;
+		text-align: center;
+	}
+
+
+
+
+

@@ -1,0 +1,37 @@
+cmp-btn {
+	all: initial;
+	display: inline-block;
+
+	margin: 0 0 2px 0;
+	padding: 1px 5px;
+	background: linear-gradient( to bottom, #111, #115 );
+	border-radius: 5px;
+	font-family: Courier;
+	text-align: center;
+	color: lime;
+	cursor: pointer;
+}
+	cmp-btn:hover {
+		background: linear-gradient( to bottom, #111, #117 );
+		color: yellow;
+
+	}
+
+	cmp-btn.active {
+		background: linear-gradient( to bottom, #009, #099 );
+		color: #fff;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

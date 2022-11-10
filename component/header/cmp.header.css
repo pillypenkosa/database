@@ -1,0 +1,27 @@
+cmp-header {
+	all: initial;
+	display: block;
+	
+	padding: 5px 10px;
+	background: linear-gradient( to right, #111, #115 );
+	border-radius: 10px;
+	font-family: Courier;
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

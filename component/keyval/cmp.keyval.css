@@ -1,0 +1,15 @@
+cmp-keyval {
+	all: initial;
+	display: block;
+	font-family: Courier;
+}
+	cmp-keyval .key {
+		color: #aaa;
+	}
+	cmp-keyval .val {
+		color: #0f0;
+	}
+
+
+
+
