@@ -14879,6 +14879,7 @@ const arrFilms = [
 		wiki_ru: '%D0%A5%D0%B0%D1%80%D0%BB%D0%B8_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%D1%81%D0%BE%D0%BD_%D0%B8_%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9_%D0%9C%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D1%80%D0%BE',
 		baskino: '3669',
 		moviestape: 'Harley.Davidson.and.the.Marlboro.Man',
+		youtube: '9snL_cNe7PM',
 	},
 	cast: {
 		mickey_rourke_16091952: 1,
