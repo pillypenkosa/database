@@ -3446,6 +3446,7 @@ const arrFilms = [
 		imdb: '1631867',
 		wiki_ru: '%D0%93%D1%80%D0%B0%D0%BD%D1%8C_%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE',
 		baskino: '505851',
+		youtube: 'G7cGxAWZ4FI',
 	},
 	cast: {
 		tom_cruise_03071962: 1,
