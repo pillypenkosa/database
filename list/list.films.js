@@ -12385,6 +12385,7 @@ const arrFilms = [
 		imdb: '0083944',
 		wiki_ru: '%D0%A0%D1%8D%D0%BC%D0%B1%D0%BE:_%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D0%BE%D0%B2%D1%8C',
 		baskino: '4087',
+		youtube: '6sCh0BK5_XU',
 	},
 	cast: {
 		sylvester_stallone_06071946: 1,
