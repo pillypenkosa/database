@@ -1084,11 +1084,11 @@ not_exist - не существует
 	area: 1240192,
 },
 {
-	id: '*',
-	title: { ua: 'Мальта', en: '', },
-	geo: { capital: '', part: '', },
-	code: { iso: '', iso2: '', iso3: '', ean: '535', phone: '', },
-	site: { wiki_ua: '', },
+	id: 'mlt',
+	title: { ua: 'Мальта', en: 'Malta', },
+	geo: { capital: 'valletta', part: 'europe', },
+	code: { iso: '470', iso2: 'mt', iso3: 'MLT', ean: '535', phone: '+356', },
+	site: { wiki_ua: '%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B0', },
 	independence_day: { dm: '', descr: '', note: '', wiki_ua: '', },
 },
 {
