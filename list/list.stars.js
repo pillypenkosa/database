@@ -1975,7 +1975,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	movie: { actor: {}, },
 	internet: {
 		imdb: '0000185', 
-		wiki_ru: '%D0%9B%D1%83%D0%BD%D0%B4%D0%B3%D1%80%D0%B5%D0%BD,_%D0%94%D0%BE%D0%BB%D1%8C%D1%84', 
+		wiki_ua: '%D0%94%D0%BE%D0%BB%D1%8C%D1%84_%D0%9B%D1%83%D0%BD%D0%B4%D0%B3%D1%80%D0%B5%D0%BD', 
 	},
 },
 {
