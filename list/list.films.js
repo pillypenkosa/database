@@ -13940,6 +13940,7 @@ const arrFilms = [
 	internet: {
 		imdb: '0103064,0000157',
 		wiki_ru: '%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80_2:_%D0%A1%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C',
+		youtube: 'Ie1_lDJzCh4',
 		baskino: '444',
 		moviestape: 'Terminator.2.Judgment.Day',
 	},
