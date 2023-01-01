@@ -435,7 +435,7 @@ const arrFilms = [
 },
 {
 	id: 'avatar_2009',
-	title: { ru: 'Аватар', en: 'Avatar', },
+	title: { ru: 'Аватар - 1', en: 'Avatar', },
 	year: 2009,
 	country: { usa: 1, },
 	internet: {
@@ -445,10 +445,26 @@ const arrFilms = [
 		trailer: '5PSNL1qE6VY',
 	},
 	cast: {
-		sigourney_weaver_08101949: 1,
 		sam_worthington_02081976: 1,
 		zoe_saldana_19061978: 1,
+		sigourney_weaver_08101949: 1,
 		michelle_rodriguez_12071978: 1,
+	},
+},
+{
+	id: 'avatar_2_2022',
+	title: { ru: 'Аватар - 2', en: 'Avatar', },
+	year: 2022,
+	country: { usa: 1, },
+	internet: {
+		imdb: '1630029',
+		wiki_ru: '%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80:_%D0%9F%D1%83%D1%82%D1%8C_%D0%B2%D0%BE%D0%B4%D1%8B',
+	},
+	cast: {
+		sam_worthington_02081976: 1,
+		zoe_saldana_19061978: 1,
+		sigourney_weaver_08101949: 1,
+		kate_winslet_05101975: 1,
 	},
 },
 {
