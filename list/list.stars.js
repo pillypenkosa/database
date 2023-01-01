@@ -5793,14 +5793,13 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'pele_23101940', 
 	name: { n: 'Pele', },
 	sex: 1,
-	life: { bd: 23, bm: 10, by: 1940, },
+	life: { bd: 23, bm: 10, by: 1940, dd: 29, dm: 12, dy: 2022, },
 	img: [ 1, 1 ],
 	country: { bra: 1, },
-	sport: { },
+	sport: { football: 1, },
 	internet: {
-		wiki_ru: '%D0%9F%D0%B5%D0%BB%D0%B5', 
+		wiki_ua: '%D0%9F%D0%B5%D0%BB%D0%B5', 
 	},
-	note: 'Футболист', 
 },
 {
 	id: 'penelope_cruz_28041974', 
