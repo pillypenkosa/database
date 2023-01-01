@@ -434,13 +434,13 @@ const arrFilms = [
 	},
 },
 {
-	id: 'avatar_2009',
+	id: 'avatar_1_2009',
 	title: { ru: 'Аватар - 1', en: 'Avatar', },
 	year: 2009,
 	country: { usa: 1, },
 	internet: {
 		imdb: '0499549',
-		wiki_ru: '%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2009)',
+		wiki_ua: '%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)',
 		baskino: '251733',
 		trailer: '5PSNL1qE6VY',
 	},
@@ -458,7 +458,7 @@ const arrFilms = [
 	country: { usa: 1, },
 	internet: {
 		imdb: '1630029',
-		wiki_ru: '%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80:_%D0%9F%D1%83%D1%82%D1%8C_%D0%B2%D0%BE%D0%B4%D1%8B',
+		wiki_ua: '%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80:_%D0%A8%D0%BB%D1%8F%D1%85_%D0%B2%D0%BE%D0%B4%D0%B8',
 	},
 	cast: {
 		sam_worthington_02081976: 1,
