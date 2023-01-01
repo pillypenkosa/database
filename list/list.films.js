@@ -4940,6 +4940,7 @@ const arrFilms = [
 		christopher_lambert_29031957: 1,
 		whoopi_goldberg_13111955: 1,
 		tim_curry_19041946: 1,
+		denise_richards_17021971: 1,
 	},
 },
 {
@@ -10393,6 +10394,7 @@ const arrFilms = [
 		charlie_sheen_03091965: 1,
 		leslie_nielsen_11021926: 1,
 		pamela_anderson_01071967: 1,
+		denise_richards_17021971: 1,
 	},
 },
 {
