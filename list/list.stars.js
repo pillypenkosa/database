@@ -1863,6 +1863,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'denise_richards_17021971', 
+	name: { n: 'Denise', s: 'Richards', },
+	life: { bd: 17, bm: 2, by: 1971, },
+	country: { usa: 1, },
+	movie: { actor: {}, },
+	internet: {
+		imdb: '0000612', 
+		wiki_ua: '%D0%94%D0%B5%D0%BD%D1%96%D0%B7_%D0%A0%D1%96%D1%87%D0%B0%D1%80%D0%B4%D1%81', 
+	},
+},
+{
 	id: 'dennis_haysbert_02061954', 
 	name: { n: 'Dennis', s: 'Haysbert', },
 	sex: 1,
