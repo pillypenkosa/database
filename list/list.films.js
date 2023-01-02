@@ -9488,12 +9488,14 @@ const arrFilms = [
 	},
 },
 {
-	id: 'novobrancy_idut_na_voynu_1974',
-	title: { ru: 'Новобранцы идут на войну', en: 'Les bidasses s\'en vont en guerre', },
-	year: 1974,
+	id: 'novobrancy_shodyat_s_uma_1971',
+	title: { ru: 'Новобранцы сходят с ума', en: 'Les Bidasses en folie', },
+	year: 1971,
 	country: { fra: 1, },
 	internet: {
-		imdb: '0071214',
+		imdb: '0187732',
+		wiki_ru: '%D0%9D%D0%BE%D0%B2%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D1%86%D1%8B_%D1%81%D1%85%D0%BE%D0%B4%D1%8F%D1%82_%D1%81_%D1%83%D0%BC%D0%B0',
+		youtube: 'o71TqcI0S48',
 	},
 },
 {
