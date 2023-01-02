@@ -1,6 +1,7 @@
 const arrSurnames = [
 
 
+
 { id: 'Abakumov' 		, title: 'Абакумов'	 		, }, { id: 'Abakumova' 		, title: 'Абакумова' 		, },
 { id: 'Abduev' 			, title: 'Абдуєв'	 		, }, { id: 'Abdueva' 		, title: 'Абдуєва' 			, },
 { id: 'Abelencev' 		, title: 'Абєлєнцев' 		, }, { id: 'Abelenceva' 	, title: 'Абєлєнцева' 		, },
@@ -310,51 +311,46 @@ const arrSurnames = [
 { id: 'Kutash' 			, title: 'Куташ' 			, },
 { id: 'Kirsanov' 		, title: 'Кірсанов' 		, }, { id: 'Kirsanova' 		, title: 'Кірсанова' 		, },
 
+{ id: 'Labzenko' 		, title: 'Лабзенко' 		, },
+{ id: 'Lavrinenko' 		, title: 'Лавриненко' 		, },
+{ id: 'Lazar' 			, title: 'Лазар' 			, },
+{ id: 'Lapshin' 		, title: 'Лапшин' 			, }, { id: 'Lapshina' 		, title: 'Лапшина' 			, },
+{ id: 'Lasica' 			, title: 'Ласиця' 			, },
+{ id: 'Lastochka' 		, title: 'Ласточка' 		, },
+{ id: 'Latyshev' 		, title: 'Латишев' 			, }, { id: 'Latysheva' 		, title: 'Латишева' 		, },
+{ id: 'Lebedev' 		, title: 'Лебедєв' 			, }, { id: 'Lebedeva' 		, title: 'Лебедєва' 		, },
+{ id: 'Lebedinsky' 		, title: 'Лебединський' 	, }, { id: 'Lebedinska' 	, title: 'Лебединська' 		, },
+{ id: 'Lebid' 			, title: 'Лебідь' 			, },
+{ id: 'Levin' 			, title: 'Левін' 			, }, { id: 'Levina' 		, title: 'Левіна' 			, },
+{ id: 'Lede' 			, title: 'Леде' 			, },
+{ id: 'Lemishka' 		, title: 'Лемішка' 			, },
+{ id: 'Leonov' 			, title: 'Леонов' 			, }, { id: 'Leonova' 		, title: 'Леонова' 			, },
+{ id: 'Leontev' 		, title: 'Леонтьєв' 		, }, { id: 'Leonteva' 		, title: 'Леонтьєва' 		, },
+{ id: 'Lipartiya' 		, title: 'Ліпартія' 		, },
+{ id: 'Lipovy' 			, title: 'Липовий' 			, }, { id: 'Lipova' 		, title: 'Липова ' 			, },
+{ id: 'Lobanov' 		, title: 'Лобанов' 			, }, { id: 'Lobanova' 		, title: 'Лобанова ' 		, },
+{ id: 'Loboyko' 		, title: 'Лобойко' 			, },
+{ id: 'Logunov' 		, title: 'Логунов' 			, }, { id: 'Logunova' 		, title: 'Логунова ' 		, },
+{ id: 'Loginov' 		, title: 'Логінов' 			, }, { id: 'Loginova' 		, title: 'Логінова' 		, },
+{ id: 'Lozovy' 			, title: 'Лозовий' 			, }, { id: 'Lozova' 		, title: 'Лозова' 			, },
+{ id: 'Lopushansky' 	, title: 'Лопушанський' 	, }, { id: 'Lopushanska' 	, title: 'Лопушанська' 		, },
+{ id: 'Lugansky' 		, title: 'Луганський' 		, }, { id: 'Luganska' 		, title: 'Луганська' 		, },
+{ id: 'Lukyanenko' 		, title: 'Лук\'яненко' 		, },
+{ id: 'Lupandin' 		, title: 'Лупандін' 		, }, { id: 'Lupandina' 		, title: 'Лупандіна' 		, },
+{ id: 'Lucenko' 		, title: 'Луценко' 			, },
+{ id: 'Lysenko' 		, title: 'Лисенко' 			, },
+{ id: 'Lyshenko' 		, title: 'Лишенко' 			, },
+{ id: 'Lyubarec' 		, title: 'Любарець' 		, },
+{ id: 'Lyubchenko' 		, title: 'Любченко' 		, },
+{ id: 'Lyalyuk' 		, title: 'Лялюк' 			, },
+{ id: 'Lyashevsky' 		, title: 'Ляшевський' 		, }, { id: 'Lyashevska' 	, title: 'Ляшевська' 		, },
+{ id: 'Lyashenko' 		, title: 'Ляшенко' 			, },
+
 
 
 
 
 /*
-
-
-
-
-
-
-{ id: 'labzenko', , },
-{ id: 'lavrinenko', , },
-{ id: 'lazar', title: 'Лазар', },
-{ id: 'lapshin', , },
-{ id: 'lasica', , },
-{ id: 'lastochka', , },
-{ id: 'latyshev', , },
-{ id: 'lebedev', title: 'Лебедєв', },
-{ id: 'lebedinsk', title: 'Лебединськ', },
-{ id: 'lebid', title: 'Лебідь', },
-{ id: 'levin', title: 'Левін', },
-{ id: 'lede', , },
-{ id: 'lemshka', title: 'Лемішка', },
-{ id: 'leonov', , },
-{ id: 'leontev', title: 'Леонтьєв', },
-{ id: 'lipartiya', , },
-{ id: 'lipov', , },
-{ id: 'lobanov', , },
-{ id: 'loboyko', , },
-{ id: 'logunov', , },
-{ id: 'loginov', title: 'Логінов', },
-{ id: 'lozov', , },
-{ id: 'lopushansk', title: 'Лопушанськ', },
-{ id: 'lugansk', title: 'Луганськ', },
-{ id: 'lukyanenko', , },
-{ id: 'lupandin', title: 'Лупандін', },
-{ id: 'lucenko', , },
-{ id: 'lysenko', title: 'Лисенко', },
-{ id: 'lyshenko', title: 'Лишенко', },
-{ id: 'lyubarec', title: 'Любарець', },
-{ id: 'lyubchenko', , },
-{ id: 'lyalyuk', , },
-{ id: 'lyashevsk', title: 'Ляшевськ', },
-{ id: 'lyashenko', , },
 
 
 
@@ -709,16 +705,6 @@ const arrSurnames = [
 { ru: 'Ященко', ua: '', en: 'Yaschenko', },
 
 
-
-
-
-
-
-
-
-
-
-//{ id: '' 	, ru: '' 	, ua: '' 	, },
 
 
 
