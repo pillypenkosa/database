@@ -5528,7 +5528,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'nicki_minaj_08121982', 
 	name: { n: 'Nicki', s: 'Minaj', },
 	life: { bd: 8, bm: 12, by: 1982, },
-	img: [ 1, 1 ],
+	img: [ 2, 1 ],
 	country: { tto: 1, },
 	music: { singer: {}, },
 	internet: {
@@ -5737,6 +5737,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'paris_hilton_17021981', 
 	name: { n: 'Paris', s: 'Hilton', },
 	life: { bd: 17, bm: 2, by: 1981, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	movie: { actor: {}, },
 	internet: {
