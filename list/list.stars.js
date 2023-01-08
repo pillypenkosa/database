@@ -14659,6 +14659,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'ada_rogovceva_16071937', 
 	name: { n: 'Ада', s: 'Роговцева', },
 	life: { bd: 16, bm: 7, by: 1937, },
+	img: [ 1, 1 ],
 	country: { ukr: 1, our: { sun: 1, }, },
 	movie: { actor: {}, },
 	internet: {
@@ -14976,6 +14977,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'anna_sedokova_16121982', 
 	name: { n: 'Анна', s: 'Сєдокова', p: 'Володимирівна', },
 	life: { bd: 16, bm: 12, by: 1982, },
+	img: [ 1, 1 ],
 	country: { ukr: 1, our: { sng: 1, }, },
 	music : { singer: {}, },
 	internet: {
