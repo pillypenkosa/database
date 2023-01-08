@@ -650,6 +650,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'barbara_bush_08061925', 
 	name: { n: 'Barbara', s: 'Bush', },
 	life: { bd: 8, bm: 6, by: 1925, dd: 17, dm: 4, dy: 2018, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	politics: { relative: [ 'george_bush_12061924', ], },
 	internet: {
@@ -988,6 +989,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'brigitte_bardot_28061934', 
 	name: { n: 'Brigitte', s: 'Bardot', },
 	life: { bd: 28, bm: 9, by: 1934, },
+	img: [ 2, 1 ],
 	country: { fra: 1, },
 	movie: { actor: {}, },
 	internet: {
