@@ -7293,6 +7293,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'veronica_castro_19101952', 
 	name: { n: 'Veronica', s: 'Castro', },
 	life: { bd: 19, bm: 10, by: 1952, },
+	img: [ 1, 1 ],
 	country: { mex: 1, },
 	movie: { actor: {}, },
 	internet: {
