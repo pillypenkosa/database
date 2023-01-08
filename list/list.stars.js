@@ -612,6 +612,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'astrid_lindgren_14111907', 
 	name: { n: 'Astrid', s: 'Lindgren', },
 	life: { bd: 14, bm: 11, by: 1907, dd: 28, dm: 1, dy: 2002, },
+	img: [ 1, 1 ],
 	country: { swe: 1, },
 	writer: {},
 	internet: {
