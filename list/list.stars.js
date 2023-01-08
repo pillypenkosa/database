@@ -1137,6 +1137,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'condoleezza_rice_14111654', 
 	name: { n: 'Condoleezza', s: 'Rice', },
 	life: { bd: 14, bm: 11, by: 1954, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	politics: { },
 	internet: {
