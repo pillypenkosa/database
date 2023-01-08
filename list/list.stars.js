@@ -1673,6 +1673,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'cybill_shepherd_18021950', 
 	name: { n: 'Cybill', s: 'Shepherd', },
 	life: { bd: 18, bm: 2, by: 1950, },
+	img: [ 3, 1 ],
 	country: { usa: 1, },
 	music: { singer: {}, },
 	internet: { 
