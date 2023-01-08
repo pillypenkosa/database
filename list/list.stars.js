@@ -50,6 +50,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	show: {
 		ballet 			: 1, // балет
 		blogger 		: 1, // блогер
+		dance 			: 1, // танцюристи
 		illusion 		: 1, // иллюзионисты, фокусники
 		leading 		: 1, // ведуший
 		propaganda 		: 1, // пропагандист
@@ -14935,7 +14936,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'anna_sedokova_16121982', 
 	name: { n: 'Анна', s: 'Сєдокова', p: 'Володимирівна', },
 	life: { bd: 16, bm: 12, by: 1982, },
-	country: { ukr: 1, our: {}, },
+	country: { ukr: 1, our: { sng: 1, }, },
 	music : { singer: {}, },
 	internet: {
 		wiki_ua: '%D0%A1%D1%94%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BD%D0%B0', 
@@ -17300,6 +17301,18 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 		imdb: '0945112', 
 		wiki_ru: '%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87', 
 		kinoteatr: 'https://www.kino-teatr.ru/kino/acter/m/star/5062/works/', 
+	},
+},
+{
+	id: 'vlad_yama_10071982', 
+	name: { n: 'Влад', s: 'Яма', },
+	sex: 1,
+	life: { bd: 10, bm: 7, by: 1982, },
+	country: { ukr: 1, our: { sng: 1, }, },
+	show: { showman: 1, dance: 1, },
+	internet: {
+		imdb: '9546212', 
+		wiki_ua: '%D0%AF%D0%BC%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87', 
 	},
 },
 {
