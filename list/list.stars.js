@@ -2461,6 +2461,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	name: { n: 'Ernesto', s: 'Che Guevara', },
 	sex: 1,
 	life: { bd: 14, bm: 6, by: 1928, dd: 9, dm: 10, dy: 1967, },
+	img: [ 1, 1 ],
 	country: { cub: 1, },
 	politics: { },
 	internet: {
@@ -7627,6 +7628,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'yoko_ono_18021933', 
 	name: { n: 'Yoko', s: 'Ono', },
 	life: { bd: 18, bm: 2, by: 1933, },
+	img: [ 1, 1 ],
 	country: { usa: 1, jpn: 1, },
 	music: { singer: {}, },
 	internet: {
