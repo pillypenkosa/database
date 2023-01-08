@@ -4757,6 +4757,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'marie_tussaud_12121761', 
 	name: { n: 'Marie ', s: 'Tussaud', },
 	life: { bd: 12, bm: 12, by: 1761, dd: 18, dm: 4, dy: 1850, },
+	img: [ 1, 1 ],
 	country: { fra: 1, },
 	internet: {
 		wiki_ru: '%D0%A2%D1%8E%D1%81%D1%81%D0%BE,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F', 
