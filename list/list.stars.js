@@ -9174,6 +9174,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'anne_veski_27021956', 
 	name: { n: 'Анне', s: 'Вески', },
 	life: { bd: 27, bm: 2, by: 1956, },
+	img: [ 1, 1 ],
 	country: { est: 1, our: { sun: 1, }, },
 	music: { singer: {}, },
 	internet: {
