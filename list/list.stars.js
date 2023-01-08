@@ -6480,6 +6480,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'roza_luksemburg_05031871', 
 	name: { n: 'Roza ', s: ' Luksemburg', },
 	life: { bd: 5, bm: 3, by: 1871, dd: 15, dm: 1, dy: 1919, },
+	img: [ 1, 1 ],
 	country: { pol: 1, },
 	politics: { },
 	internet: {
@@ -7256,6 +7257,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'vanessa_mae_27101978', 
 	name: { n: 'Vanessa', s: 'Mae', },
 	life: { bd: 27, bm: 10, by: 1978, },
+	img: [ 2, 1 ],
 	country: { gbr: 1, },
 	birthplace: 'Сингапур',
 	music: { violin: 1, },
@@ -7280,6 +7282,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'vanga_31011911', 
 	name: { n: 'Vanga', },
 	life: { bd: 31, bm: 1, by: 1911, dd: 11, dm: 8, dy: 1996, },
+	img: [ 1, 1 ],
 	country: { bgr: 1, },
 	internet: {
 		wiki_ru: '%D0%92%D0%B0%D0%BD%D0%B3%D0%B0', 
