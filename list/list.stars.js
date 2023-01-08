@@ -4388,18 +4388,6 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
-	id: 'lady_gaga_28031986', 
-	name: { n: 'Lady', s: 'Gaga', },
-	life: { bd: 28, bm: 3, by: 1986, },
-	img: [ 1, 1 ],
-	country: { usa: 1, },
-	music: { singer: 1, },
-	internet: {
-		imdb: '3078932', 
-		wiki_ru: '%D0%9B%D0%B5%D0%B4%D0%B8_%D0%93%D0%B0%D0%B3%D0%B0', 
-	},
-},
-{
 	id: 'lafayette_ronald_hubbard_13031911', 
 	name: { n: 'L.Ron', s: 'Hubbard', },
 	sex: 1,
@@ -4411,6 +4399,18 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 		wiki_ru: '%D0%A5%D0%B0%D0%B1%D0%B1%D0%B0%D1%80%D0%B4,_%D0%9B%D0%B0%D1%84%D0%B0%D0%B9%D0%B5%D1%82_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4', 
 	},
 	note: 'Lafayette Ronald Hubbard. Автор книг по дианетике и саентологии',
+},
+{
+	id: 'lady_gaga_28031986', 
+	name: { n: 'Lady', s: 'Gaga', },
+	life: { bd: 28, bm: 3, by: 1986, },
+	img: [ 1, 1 ],
+	country: { usa: 1, },
+	music: { singer: 1, },
+	internet: {
+		imdb: '3078932', 
+		wiki_ru: '%D0%9B%D0%B5%D0%B4%D0%B8_%D0%93%D0%B0%D0%B3%D0%B0', 
+	},
 },
 {
 	id: 'lamon_brewster_05061973', 
@@ -4431,8 +4431,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	country: { fra: 1, },
 	music: { singer: 1, },
 	internet: {
-		wiki_ru: '%D0%A4%D0%B0%D0%B1%D0%B8%D0%B0%D0%BD,_%D0%9B%D0%B0%D1%80%D0%B0', 
 		wiki_ua: '%D0%9B%D0%B0%D1%80%D0%B0_%D0%A4%D0%B0%D0%B1%D1%96%D0%B0%D0%BD', 
+	},
+},
+{
+	id: 'lauren_cohan_07011982', 
+	name: { n: 'Lauren', s: 'Cohan', },
+	life: { bd: 7, bm: 1, by: 1982, },
+	country: { usa: 1, },
+	movie : { actor: 1, },
+	internet: {
+		wiki_ua: '%D0%9B%D0%BE%D1%80%D0%B5%D0%BD_%D0%9A%D0%BE%D0%B5%D0%BD', 
 	},
 },
 {
