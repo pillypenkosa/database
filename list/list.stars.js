@@ -2524,6 +2524,18 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'fidel_castro_13081936',
+	name: { n: 'Fidel', s: 'Castro', },
+	sex: 1,
+	life: { bd: 13, bm: 8, by: 1926, dd: 25, dm: 11, dy: 2016, },
+	img: [ 1, 1 ],
+	country: { cub: 1, },
+	politics: { },
+	internet: {
+		wiki_ua: '%D0%A4%D1%96%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%BE', 
+	},
+},
+{
 	id: 'freddie_mercury_05091946', 
 	name: { n: 'Freddie', s: 'Mercury', },
 	sex: 1,
@@ -7329,6 +7341,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'victoria_ruffo_31051962', 
 	name: { n: 'Victoria', s: 'Ruffo', },
 	life: { bd: 31, bm: 5, by: 1962, },
+	img: [ 1, 1 ],
 	country: { mex: 1, },
 	movie: { actor: {}, },
 	internet: {
