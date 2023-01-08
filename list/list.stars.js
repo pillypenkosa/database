@@ -3581,7 +3581,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'jennifer_connelly_12121970', 
 	name: { n: 'Jennifer', s: 'Connelly', },
 	life: { bd: 12, bm: 12, by: 1970, },
-	img: [ 1, 1 ],
+	img: [ 2, 1 ],
 	country: { usa: 1, },
 	movie: { actor: {}, },
 	internet: {
@@ -4442,6 +4442,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'lara_fabian_09011970', 
 	name: { n: 'Lara', s: 'Fabian', },
 	life: { bd: 9, bm: 1, by: 1970, },
+	img: [ 1, 1 ],
 	country: { fra: 1, },
 	music: { singer: 1, },
 	internet: {
@@ -4452,6 +4453,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'lauren_cohan_07011982', 
 	name: { n: 'Lauren', s: 'Cohan', },
 	life: { bd: 7, bm: 1, by: 1982, },
+	img: [ 3, 1 ],
 	country: { usa: 1, },
 	movie : { actor: 1, },
 	internet: {
@@ -4585,6 +4587,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'liza_minnelli_12031946', 
 	name: { n: 'Liza', s: 'Minnelli', },
 	life: { bd: 12, bm: 3, by: 1946, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	music: { singer: {}, },
 	internet: {
