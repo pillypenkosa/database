@@ -1876,6 +1876,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'denise_richards_17021971', 
 	name: { n: 'Denise', s: 'Richards', },
 	life: { bd: 17, bm: 2, by: 1971, },
+	img: [ 3, 1 ],
 	country: { usa: 1, },
 	movie: { actor: {}, },
 	internet: {
