@@ -8892,6 +8892,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'viktoria_bulitko_25011983', 
 	name: { n: 'Вікторія', s: 'Булітко', p: 'Сергіївна', },
 	life: { bd: 25, bm: 1, by: 1983,  },
+	img: [ 1, 1 ],
 	country: { ukr: 1, our: { sng: 1, }, },
 	show: { diesel: {}, },
 	internet: {
@@ -9754,6 +9755,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'yana_gluschenko_08071986', 
 	name: { n: 'Яна', s: 'Глущенко', p: 'Вікторівна', },
 	life: { bd: 8, bm: 7, by: 1986,  },
+	img: [ 1, 1 ],
 	country: { ukr: 1, our: { sng: 1, }, },
 	show: { diesel: {}, },
 	internet: {
