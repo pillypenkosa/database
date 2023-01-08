@@ -14899,6 +14899,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'anna_sedokova_16121982', 
+	name: { n: 'Анна', s: 'Сєдокова', p: 'Володимирівна', },
+	life: { bd: 16, bm: 12, by: 1982, },
+	country: { ukr: 1, our: {}, },
+	music : { singer: {}, },
+	internet: {
+		wiki_ua: '%D0%A1%D1%94%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BD%D0%B0', 
+		wiki_ru: '%D0%A1%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0', 
+	},
+},
+{
 	id: 'natalya_selezneva_19061945', 
 	name: { n: 'Наталья', s: 'Селезнёва', },
 	life: { bd: 19, bm: 6, by: 1945, },
