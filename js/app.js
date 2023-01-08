@@ -1,5 +1,5 @@
 const appProjectName = 'DataBase DJS';
-const appVersion = '2023-01-08 16:55';
+const appVersion = '2023-01-08 17:00';
 
 
 

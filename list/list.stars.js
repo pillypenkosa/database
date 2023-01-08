@@ -6155,6 +6155,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'rebecca_de_mornay_29081959', 
 	name: { n: 'Rebecca', s: 'de Mornay', },
 	life: { bd: 29, bm: 8, by: 1959, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	movie: { actor: {}, },
 	internet: {
