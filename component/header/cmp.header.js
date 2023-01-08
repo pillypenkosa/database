@@ -24,7 +24,7 @@ class ComponentHeader {
 				//{ k: 'selected' 	, v: '' 						, },
 				//{ k: 'defer' 		, v: '' 						, },
 			], 
-			innerHTML: `Database DJS`, 
+			innerHTML: appProjectName + ' ' + appVersion, 
 		});
 	}
 

@@ -1,3 +1,11 @@
+const appProjectName = 'DataBase DJS';
+const appVersion = '2023-01-08 16:10';
+
+
+
+
+
+
 // подсветка кнопок
 function btnLight( container, id ) { 	// container - блок, где расположены кнопки 		// data-id - идентификатор конкретной кнопки
 
