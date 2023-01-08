@@ -8887,6 +8887,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'viktoria_bulitko_25011983', 
+	name: { n: 'Вікторія', s: 'Булітко', p: 'Сергіївна', },
+	life: { bd: 25, bm: 1, by: 1983,  },
+	country: { ukr: 1, our: { sng: 1, }, },
+	show: { diesel: {}, },
+	internet: {
+		imdb: '7141293', 
+		wiki_ua: '%D0%91%D1%83%D0%BB%D1%96%D1%82%D0%BA%D0%BE_%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D1%97%D0%B2%D0%BD%D0%B0', 
+	},
+},
+{
 	id: 'kir_bulychev_18101934', 
 	name: { n: 'Кир', s: 'Булычёв', },
 	sex: 1,
@@ -9945,7 +9956,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 },
 {
 	id: 'nadezhda_granovskaya_10041982', 
-	name: { n: 'Надежда', s: 'Грановская', },
+	name: { n: 'Надія', s: 'Мейхер-Грановська', p: 'Олександрівна', },
 	life: { bd: 10, bm: 4, by: 1982, },
 	img: [ 1, 1 ],
 	country: { ukr: 1, our: { sng: 1, }, },
@@ -9953,7 +9964,6 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	internet: {
 		imdb: '2517140', 
 		wiki_ua: '%D0%9C%D0%B5%D0%B9%D1%85%D0%B5%D1%80_%D0%9D%D0%B0%D0%B4%D1%96%D1%8F_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B2%D0%BD%D0%B0', 
-		wiki_ru: '%D0%9C%D0%B5%D0%B9%D1%85%D0%B5%D1%80,_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0', 
 		kinoteatr: 'https://www.kino-teatr.ru/kino/acter/w/star/6740/works/', 
 	},
 },
