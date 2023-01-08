@@ -3517,7 +3517,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
-	id: 'jeanne_dark_06011412', 
+	id: 'jeanne_darc_06011412', 
 	name: { n: 'Jeanne', s: ' d\'Arc', },
 	life: { bd: 6, bm: 1, by: 1412, dd: 30, dm: 5, dy: 1431,},
 	img: [ 1, 1 ],
@@ -4649,6 +4649,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'lucelia_santos_20051957', 
 	name: { n: 'Lucelia', s: 'Santos', },
 	life: { bd: 20, bm: 5, by: 1957, },
+	img: [ 2, 1 ],
 	country: { bra: 1, },
 	movie: { actor: {}, },
 	internet: {
