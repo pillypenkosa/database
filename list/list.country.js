@@ -528,6 +528,14 @@ not_exist - не существует
 	area: 9826675,
 },
 {
+	id: 'tto',
+	title: { ua: 'Тринідад і Тобаго', en: 'Trinidad and Tobago', },
+	geo: { capital: 'port_of_spain', part: 'amer_s', },
+	code: { iso: '780', iso2: 'tt', iso3: 'TTO', ean: '', phone: '+868', },
+	site: { wiki_ua: '%D0%A2%D1%80%D0%B8%D0%BD%D1%96%D0%B4%D0%B0%D0%B4_%D1%96_%D0%A2%D0%BE%D0%B1%D0%B0%D0%B3%D0%BE', },
+	independence_day: { dm: '', descr: '', note: '', wiki_ua: '', },
+},
+{
 	id: 'tur',
 	title: { ua: 'Туреччина', en: 'Turkey', },
 	geo: { capital: 'ankara', part: 'asia', },
@@ -1374,14 +1382,6 @@ not_exist - не существует
 {
 	id: '*',
 	title: { ua: 'Того', en: '', },
-	geo: { capital: '', part: '', },
-	code: { iso: '', iso2: '', iso3: '', ean: '', phone: '', },
-	site: { wiki_ua: '', },
-	independence_day: { dm: '', descr: '', note: '', wiki_ua: '', },
-},
-{
-	id: '*',
-	title: { ua: 'Тринидад и Тобаго', en: '', },
 	geo: { capital: '', part: '', },
 	code: { iso: '', iso2: '', iso3: '', ean: '', phone: '', },
 	site: { wiki_ua: '', },

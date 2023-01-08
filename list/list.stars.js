@@ -4441,6 +4441,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	country: { usa: 1, },
 	movie : { actor: 1, },
 	internet: {
+		imdb: '1659348',
 		wiki_ua: '%D0%9B%D0%BE%D1%80%D0%B5%D0%BD_%D0%9A%D0%BE%D0%B5%D0%BD', 
 	},
 },
@@ -5489,6 +5490,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	internet: {
 		imdb: '0001763', 
 		wiki_ru: '%D0%A1%D1%82%D0%B0%D0%BB,_%D0%9D%D0%B8%D0%BA', 
+	},
+},
+{
+	id: 'nicki_minaj_08121982', 
+	name: { n: 'Nicki', s: 'Minaj', },
+	life: { bd: 8, bm: 12, by: 1982, },
+	country: { tto: 1, },
+	music: { singer: {}, },
+	internet: {
+		imdb: '3747326', 
+		wiki_ua: '%D0%9D%D1%96%D0%BA%D1%96_%D0%9C%D1%96%D0%BD%D0%B0%D0%B6', 
 	},
 },
 {

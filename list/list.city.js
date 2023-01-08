@@ -155,6 +155,7 @@ const arrCity = [
 { id: 'phnom_penh' 				, title: { ua: 'Пномпень' 				, en: 'Phnom Penh' 				, }, country: 'khm', site: { wiki: { ua: '%D0%9F%D0%BD%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%8C', }, }, },
 { id: 'porto_novo' 				, title: { ua: 'Порто-Ново' 			, en: 'Porto Novo' 				, }, country: 'ben', site: { wiki: { ua: '%D0%9F%D0%BE%D1%80%D1%82%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE', }, }, },
 { id: 'port_au_prince' 			, title: { ua: 'Порт-о-Пренс' 			, en: 'Port-au-Prince' 			, }, country: 'hti', site: { wiki: { ua: '%D0%9F%D0%BE%D1%80%D1%82-%D0%BE-%D0%9F%D1%80%D0%B5%D0%BD%D1%81', }, }, },
+{ id: 'port_of_spain' 			, title: { ua: 'Порт-оф-Спейн' 			, en: 'Port of Spain' 			, }, country: 'tto', site: { wiki: { ua: '%D0%9F%D0%BE%D1%80%D1%82-%D0%BE%D1%84-%D0%A1%D0%BF%D0%B5%D0%B9%D0%BD', }, }, },
 { id: 'praha'					, title: { ua: 'Прага' 					, en: 'Praha' 					, }, country: 'cze', site: { wiki: { ua: '%D0%9F%D1%80%D0%B0%D0%B3%D0%B0', }, }, },
 { id: 'pyongyang'				, title: { ua: 'Пхеньян' 				, en: 'Pyongyang' 				, }, country: 'prk', site: { wiki: { ua: '%D0%9F%D1%85%D0%B5%D0%BD%D1%8C%D1%8F%D0%BD', }, }, },
 { id: 'rabat' 					, title: { ua: 'Рабат' 					, en: 'Rabat' 					, }, country: 'mar', site: { wiki: { ua: '%D0%A0%D0%B0%D0%B1%D0%B0%D1%82', }, }, },
