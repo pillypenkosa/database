@@ -5030,6 +5030,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'mercedes_jellinek_16091889', 
 	name: { n: 'Mercedes', s: 'Jellinek', },
 	life: { bd: 16, bm: 9, by: 1889, dd: 23, dm: 2, dy: 1929, },
+	img: [ 1, 1 ],
 	country: { aut: 1, },
 	develope: { relative: 1, },
 	internet: {
