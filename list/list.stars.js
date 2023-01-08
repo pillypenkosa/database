@@ -5493,6 +5493,18 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'nick_vujicic_04121982', 
+	name: { n: 'Nick', s: 'Vujicic', },
+	sex: 1,
+	life: { bd: 4, bm: 12, by: 1982, },
+	country: { aus: 1, },
+	religion: {},
+	internet: {
+		imdb: '3607348', 
+		wiki_ua: '%D0%9D%D1%96%D0%BA_%D0%92%D1%83%D0%B9%D1%87%D0%B8%D1%87', 
+	},
+},
+{
 	id: 'nicki_minaj_08121982', 
 	name: { n: 'Nicki', s: 'Minaj', },
 	life: { bd: 8, bm: 12, by: 1982, },
