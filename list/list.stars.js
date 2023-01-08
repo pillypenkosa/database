@@ -1239,7 +1239,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'catherine_deneuve_22101943', 
 	name: { n: 'Catherine', s: 'Deneuve', },
 	life: { bd: 22, bm: 10, by: 1943, },
-	img: [ 1, 1 ],
+	img: [ 2, 1 ],
 	country: { fra: 1, },
 	movie: { actor: {}, },
 	internet: {
@@ -1593,6 +1593,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'coco_chanel_19081883', 
 	name: { n: 'Coco', s: 'Chanel', },
 	life: { bd: 19, bm: 8, by: 1883, dd: 10, dm: 1, dy: 1971, },
+	img: [ 1, 1 ],
 	country: { fra: 1, },
 	fashion: { },
 	internet: {
