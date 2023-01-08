@@ -3520,6 +3520,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'jeanne_dark_06011412', 
 	name: { n: 'Jeanne', s: ' d\'Arc', },
 	life: { bd: 6, bm: 1, by: 1412, dd: 30, dm: 5, dy: 1431,},
+	img: [ 1, 1 ],
 	country: { fra: 1, },
 	war: { },
 	internet: {
@@ -3580,6 +3581,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'jennifer_connelly_12121970', 
 	name: { n: 'Jennifer', s: 'Connelly', },
 	life: { bd: 12, bm: 12, by: 1970, },
+	img: [ 1, 1 ],
 	country: { usa: 1, },
 	movie: { actor: {}, },
 	internet: {
