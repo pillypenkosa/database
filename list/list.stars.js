@@ -2305,6 +2305,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'elizabeth_taylor_27021932', 
 	name: { n: 'Elizabeth', s: 'Taylor', },
 	life: { bd: 27, bm: 2, by: 1932, dd: 23, dm: 3, dy: 2011, },
+	img: [ 3, 1 ],
 	country: { gbr: 1, },
 	movie: { actor: {}, },
 	internet: {
