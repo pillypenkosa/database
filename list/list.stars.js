@@ -268,6 +268,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'alana_asmr', 
 	name: { n: 'Alana', },
 	country: { usa: 1, },
+	img: [ 1, 1 ],
 	show: { blogger: 1, },
 },
 {
