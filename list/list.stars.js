@@ -989,7 +989,7 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	id: 'brigitte_bardot_28061934', 
 	name: { n: 'Brigitte', s: 'Bardot', },
 	life: { bd: 28, bm: 9, by: 1934, },
-	img: [ 2, 1 ],
+	img: [ 4, 1 ],
 	country: { fra: 1, },
 	movie: { actor: {}, },
 	internet: {
