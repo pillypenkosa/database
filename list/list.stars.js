@@ -9749,6 +9749,17 @@ https://uk.wikipedia.org/wiki/20_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BD%D1%8F#%D0%
 	},
 },
 {
+	id: 'yana_gluschenko_08071986', 
+	name: { n: 'Яна', s: 'Глущенко', p: 'Вікторівна', },
+	life: { bd: 8, bm: 7, by: 1986,  },
+	country: { ukr: 1, our: { sng: 1, }, },
+	show: { diesel: {}, },
+	internet: {
+		imdb: '6226484', 
+		wiki_ua: '%D0%93%D0%BB%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE_%D0%AF%D0%BD%D0%B0_%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D0%B2%D0%BD%D0%B0', 
+	},
+},
+{
 	id: 'alexey_glyzin_13011954', 
 	name: { n: 'Алексей', s: 'Глызин', },
 	sex: 1,
